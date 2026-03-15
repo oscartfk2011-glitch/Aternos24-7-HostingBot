@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "bob",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
-    "ip": "onelife_left.aternos.me:58079",
+    "ip": "onelife_left.aternos.me",
     "port": 58079,
     "version": "1.21.11",
     "try-creative": false
