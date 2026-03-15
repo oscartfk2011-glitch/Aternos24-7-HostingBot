@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "onelife_left.aternos.me:58079",
+    "ip": "onelife_left.aternos.me",
     "port": 58079,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
