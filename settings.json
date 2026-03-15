@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "bob",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "pearleye.aternos.host:58079",
+    "ip": "onelife_left.aternos.me:58079",
     "port": 58079,
     "version": "",
     "try-creative": false
