@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "onelife_left.aternos.me",
+    "ip": "pearleye.aternos.host:58079",
     "port": 58079,
     "version": "",
     "try-creative": false
